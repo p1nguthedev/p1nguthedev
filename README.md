@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm P1ngu</h1>
 <h3 align="center">A passionate developer from Finland</h3>
 
-- 🔭 I’m currently working on **FiveM Scripts**
+- 🔭 I’m currently working on **Fincity - Finnish FiveM Server - https://discord.gg/rqrjcbrzCk**
 
 - 🌱 I’m currently learning **React**
 
